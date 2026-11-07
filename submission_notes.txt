@@ -1,0 +1,29 @@
+BITS Pilani – M.Tech (DSE)
+Machine Learning – Assignment 2
+
+Project: Breast Cancer Classification
+
+Dataset: Breast Cancer Wisconsin (Diagnostic)
+Instances: 569 | Features: 30 | Classes: 2
+Target encoding: 0 = malignant, 1 = benign
+Split: 75% training / 25% testing, stratified, random_state=42
+
+Evaluation metrics (held-out test partition)
+                        Accuracy    AUC  Precision  Recall     F1    MCC
+Logistic Regression       0.9860 0.9977     0.9889  0.9889 0.9889 0.9700
+Decision Tree             0.9371 0.9186     0.9551  0.9444 0.9497 0.8657
+K-Nearest Neighbors       0.9790 0.9845     0.9677  1.0000 0.9836 0.9555
+Gaussian Naive Bayes      0.9371 0.9893     0.9263  0.9778 0.9514 0.8650
+Support Vector Machine    0.9790 0.9969     0.9888  0.9778 0.9832 0.9553
+
+Highest F1 score on this split: Logistic Regression
+
+Repository URL: PASTE_GITHUB_REPOSITORY_URL
+Live Streamlit URL: PASTE_STREAMLIT_APP_URL
+
+BITS Virtual Lab screenshot:
+[Insert your own screenshot from the BITS Virtual Lab session here.]
+
+Submission reminder:
+The assignment brief requires one PDF containing the GitHub repository link,
+live Streamlit app link, BITS Virtual Lab screenshot, and README content.
