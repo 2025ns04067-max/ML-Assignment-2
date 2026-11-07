@@ -14,7 +14,7 @@ Build and compare five supervised classification algorithms on one dataset, eval
 - **Source:** UCI Machine Learning Repository, Breast Cancer Wisconsin (Diagnostic) dataset; accessed through scikit-learn's bundled dataset loader.
 
 ## c. GitHub Repository Link
-**Add your own public GitHub repository URL here after creating and pushing this project:** `https://github.com/2025ns04067-max/ML-Assignment-2`
+**GitHub repository URL :** `https://github.com/2025ns04067-max/ML-Assignment-2`
 
 ## d. Models used
 
@@ -65,7 +65,7 @@ All metrics below are computed on the same held-out test set. AUC uses the predi
 - Prediction preview.
 
 ## Deployment
-Deploy `app.py` from this GitHub repository using Streamlit Community Cloud. Add the resulting public app URL here: `https://ml-assignment-2-msc37hm8jfapshzphgaesp.streamlit.app/`.
+Deploy `app.py` from this GitHub repository using Streamlit Community Cloud. Public app URL here: `https://ml-assignment-2-msc37hm8jfapshzphgaesp.streamlit.app/`.
 
 ## BITS Virtual Lab evidence
 Run the training script or notebook in BITS Virtual Lab and insert your own screenshot here in the final submission PDF. The screenshot must be captured from your actual BITS Virtual Lab session.
